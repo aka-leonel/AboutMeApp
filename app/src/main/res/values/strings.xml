@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Leonel Godoy</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Leo.
+    \n\nI\'m a student from Argentina
+        \n\nI\'m currently learning mobile development
+    \n\nYou can visit my repos at github.com/aka-leonel</string>
+</resources>
