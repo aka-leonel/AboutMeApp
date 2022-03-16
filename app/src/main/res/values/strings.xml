@@ -6,4 +6,6 @@
     \n\nI\'m a student from Argentina
         \n\nI\'m currently learning mobile development
     \n\nYou can visit my repos at github.com/aka-leonel</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
